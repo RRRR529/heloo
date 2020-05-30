@@ -1,3 +1,2 @@
 # heloo
-hhhhhhhhhh
-ddddggddfgfgffddfdfdfgf
+git clone https://github.com/pannous/tensorflow-speech-recognition
